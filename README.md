@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola soy Nande!👋
+
+- Mi nombre es Vicente Aguirre y tengo 23 años
+- Estudiante Fullstack Javascript en Desafio LATAM
+- WIP... jeje
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandem1&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

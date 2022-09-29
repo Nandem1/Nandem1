@@ -1,6 +1,7 @@
 ### Hola soy Nande!👋
-![](https://img.shields.io/badge/-HTML-lightgrey?logo=html5)
-
+![](https://img.shields.io/badge/-HTML-lightgrey?logo=html5&style=plastic)
+![](https://img.shields.io/badge/-CSS-lightgrey?logo=css3&style=plastic)
+![](https://img.shields.io/badge/-Bootstrap-lightgrey?logo=bootstrap&style=plastic)
 - Mi nombre es Vicente Aguirre y tengo 23 años
 - Estudiante Fullstack Javascript en Desafio LATAM
 - WIP... jeje

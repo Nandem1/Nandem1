@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/-Javascript-lightgrey?logo=javascript&style=flat)
 ![](https://img.shields.io/badge/-React-lightgrey?logo=react&style=flat)
 ![](https://img.shields.io/badge/-Git-lightgrey?logo=git&style=flat)
+![](https://img.shields.io/badge/-SQL-lightgrey?logo=sql&style=flat)
 - Mi nombre es Vicente Aguirre y tengo 23 años
 - Estudiante Fullstack Javascript en Desafio LATAM
 - WIP... jeje

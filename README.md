@@ -10,6 +10,8 @@
 ![](https://img.shields.io/badge/-Git-lightgrey?logo=git&style=flat&logoColor=white&color=161b22)
 ![](https://img.shields.io/badge/-Python-lightgrey?logo=Python&style=flat&logoColor=white&color=161b22)
 ![](https://img.shields.io/badge/-PostgreSQL-lightgrey?logo=PostgreSQL&style=flat&logoColor=white&color=161b22)
+![](https://img.shields.io/badge/-Node-lightgrey?logo=Node.JS&style=flat&logoColor=white&color=161b22)
+![](https://img.shields.io/badge/-Express-lightgrey?logo=Express&style=flat&logoColor=white&color=161b22)
 
 ### Sobre mí
 Mi nombre es Vicente Aguirre, tengo 24 años y soy un desarrollador Fullstack Javascript Junior con muchas ganas de seguir progresando en este mundo del desarrollo. Me considero una persona de aprendizaje ágil, y es por esto que me gusta aceptar nuevos desafíos para así poner a prueba mis habilidades y conocimientos, como también aprender nuevas experiencias, tanto de los logros como de los errores.

@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/-Express-lightgrey?logo=Express&style=flat&logoColor=white&color=161b22)
 
 ### Sobre mí
-Mi nombre es Vicente Aguirre, tengo 24 años y soy un desarrollador Fullstack Javascript Trainee con muchas ganas de seguir progresando en este mundo del desarrollo. Me considero una persona de aprendizaje ágil, y es por esto que me gusta aceptar nuevos desafíos para así poner a prueba mis habilidades y conocimientos, como también aprender nuevas experiencias, tanto de los logros como de los errores.
+Mi nombre es Vicente Aguirre, tengo 26 años y soy un desarrollador Fullstack Javascript Trainee con muchas ganas de seguir progresando en este mundo del desarrollo. Me considero una persona de aprendizaje ágil, y es por esto que me gusta aceptar nuevos desafíos para así poner a prueba mis habilidades y conocimientos, como también aprender nuevas experiencias, tanto de los logros como de los errores.
 
 ### Habilidades
 - HTML5 & CSS3
